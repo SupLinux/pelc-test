@@ -4,3 +4,4 @@ First commit
 commit branch
 test1
 test tag
+test log
